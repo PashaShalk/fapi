@@ -1,6 +1,9 @@
 package com.netcracker.fapi.services.impl;
 
-import com.netcracker.fapi.model.*;
+import com.netcracker.fapi.model.RegisteredUser;
+import com.netcracker.fapi.model.User;
+import com.netcracker.fapi.model.UserInfo;
+import com.netcracker.fapi.model.UserVM;
 import com.netcracker.fapi.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
